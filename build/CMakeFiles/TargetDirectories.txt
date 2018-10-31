@@ -1,7 +1,0 @@
-/home/skipperio/projects/idk/build/CMakeFiles/install/strip.dir
-/home/skipperio/projects/idk/build/CMakeFiles/edit_cache.dir
-/home/skipperio/projects/idk/build/CMakeFiles/idk.dir
-/home/skipperio/projects/idk/build/CMakeFiles/install.dir
-/home/skipperio/projects/idk/build/CMakeFiles/rebuild_cache.dir
-/home/skipperio/projects/idk/build/CMakeFiles/list_install_components.dir
-/home/skipperio/projects/idk/build/CMakeFiles/install/local.dir
